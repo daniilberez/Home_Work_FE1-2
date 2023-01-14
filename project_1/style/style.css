@@ -1,0 +1,38 @@
+h1{
+    color: #34495E;
+}
+
+
+.p1{
+background-color: #3498DB;
+}
+
+.p2{
+    background-color: #8E44AD;
+}
+
+.p3{
+    background-color: #16A085;
+}
+
+.main h1{
+    margin: 25px 20px 25px 20px;
+}
+
+
+.main p{
+    margin: 40px 25px 20px 20px;
+}
+
+.links img{
+    width: 80px;
+    margin: 0px 4px;
+}
+
+.links{
+    margin: 20px;
+}
+
+.links a{
+text-decoration: none;
+}
